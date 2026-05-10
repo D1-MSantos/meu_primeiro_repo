@@ -1,0 +1,3 @@
+[submodule "lib/branch_git"]
+	path = lib/branch_git
+	url = git@github.com:D1-MSantos/branch_git.git
